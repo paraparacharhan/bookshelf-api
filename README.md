@@ -6,9 +6,10 @@
 
 - [x] PRテンプレート
 - [ ] ユースケース図
+- [ ] ER設計
 - [ ] CI設計
-- [ ] API設計書(OoenAPI予定)
-- [ ] DB,ER設計
+- [ ] API設計書(OpenAPI予定)
+- [ ] DB
 - [ ] Docker設計
 - [ ] 各Presentation層
 - [ ] 各Application層
