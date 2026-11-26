@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="gw358ocH63S2fw5h-uFG">
+    <mxGraphModel dx="1414" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="620" width="380" x="413" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-1" parent="W7ZCrRjvqY1udbzgG5om-20" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="620" width="380" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-2" parent="W7ZCrRjvqY1udbzgG5om-20" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#000000);fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;本棚管理システム&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="140" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-4" edge="1" parent="W7ZCrRjvqY1udbzgG5om-20" source="W7ZCrRjvqY1udbzgG5om-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="W7ZCrRjvqY1udbzgG5om-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-5" edge="1" parent="W7ZCrRjvqY1udbzgG5om-20" source="W7ZCrRjvqY1udbzgG5om-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="W7ZCrRjvqY1udbzgG5om-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-6" edge="1" parent="W7ZCrRjvqY1udbzgG5om-20" source="W7ZCrRjvqY1udbzgG5om-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="W7ZCrRjvqY1udbzgG5om-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-7" edge="1" parent="W7ZCrRjvqY1udbzgG5om-20" source="W7ZCrRjvqY1udbzgG5om-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="W7ZCrRjvqY1udbzgG5om-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-10" parent="W7ZCrRjvqY1udbzgG5om-20" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;strokeColor=light-dark(#000000,#000000);fillColor=none;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本棚管理者" vertex="1">
+          <mxGeometry height="60" width="30" x="48" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-18" edge="1" parent="W7ZCrRjvqY1udbzgG5om-20" source="W7ZCrRjvqY1udbzgG5om-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="W7ZCrRjvqY1udbzgG5om-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="147" y="425" as="sourcePoint" />
+            <mxPoint x="261" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-19" connectable="0" parent="W7ZCrRjvqY1udbzgG5om-20" style="group" value="" vertex="1">
+          <mxGeometry height="470" width="140" x="192" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-12" parent="W7ZCrRjvqY1udbzgG5om-19" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;labelBackgroundColor=none;fontColor=default;" value="本情報を参照する&lt;br&gt;（全件）" vertex="1">
+          <mxGeometry height="70" width="140" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-13" parent="W7ZCrRjvqY1udbzgG5om-19" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本情報を参照する&lt;br&gt;（個別）" vertex="1">
+          <mxGeometry height="70" width="140" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-14" parent="W7ZCrRjvqY1udbzgG5om-19" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本情報を登録する" vertex="1">
+          <mxGeometry height="70" width="140" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-15" parent="W7ZCrRjvqY1udbzgG5om-19" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本情報を更新する&lt;br&gt;（全更新）" vertex="1">
+          <mxGeometry height="70" width="140" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="W7ZCrRjvqY1udbzgG5om-17" parent="W7ZCrRjvqY1udbzgG5om-19" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本を削除する" vertex="1">
+          <mxGeometry height="70" width="140" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
